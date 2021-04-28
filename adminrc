@@ -1,0 +1,4 @@
+export URL='https://rhvm02.han.private.mobifone.vn/ovirt-engine/api'
+export USER_NAME='admin@internal'
+export PASSWORD='redhat1234#'
+export CERT_PATH='/root/mobifone_rhvm/ca.pem'
